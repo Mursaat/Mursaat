@@ -1,13 +1,12 @@
 # Hi there, I'm Ian Gillespie 
 <a href="https://www.linkedin.com/in/ian-gillespie-5526b01b8/
 
-I am a recent graduate in Cybersecurity and dedicated to 
+I am a recent graduate in Cybersecurity and dedicated to protect valuable information.
 
-- 🔭 I’m currently working on: **[Your current project or focus]**
-- 🌱 I’m currently learning: **[Languages, frameworks, or skills]**
-- 💬 Ask me about: **[Topics you're knowledgeable about]**
-- 📫 How to reach me: **[Email or other contact info]**
-- ⚡ Fun fact: **[Something interesting about you]**
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/7UEK11DJ9JLZ
+
+
+
 
 ## 🛠️ Tech Stack
 
