@@ -5,8 +5,8 @@
 Brief introduction
 I am a recent graduate in Cybersecurity and dedicated to protect valuable information.
 
-
-
+Objective
+My journey through Cybersecurity has led me to develop a passion for it. I am eager to abtain knowladge  
 
 
 
