@@ -1,7 +1,10 @@
 # Hi there, I'm Ian Gillespie 
 <a href="https://www.linkedin.com/in/ian-gillespie-5526b01b8/
+
+
 Brief introduction
 I am a recent graduate in Cybersecurity and dedicated to protect valuable information.
+
 
 
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/7UEK11DJ9JLZ
