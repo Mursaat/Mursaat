@@ -11,7 +11,8 @@ I am a recent graduate in Cybersecurity and dedicated to protect valuable inform
 Objective
 
 
-My journey through Cybersecurity has led me to develop a passion for it. I am eager to abtain knowladge  
+My journey through Cybersecurity has led me to develop a passion for it. I am eager to abtain knowladge, specificly to join 
+Security Operations Center (SOC) as a teir 1 analyist. 
 
 
 
